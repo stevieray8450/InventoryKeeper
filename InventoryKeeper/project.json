@@ -1,5 +1,6 @@
 ﻿{
   "dependencies": {
+    "AWSSDK": "2.3.55.2",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0"
   },
   "frameworks": {
